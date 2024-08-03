@@ -1,0 +1,15 @@
+/ultralytics
+/database
+/2
+/runs
+/requirement
+/20rx
+/unet/__pycache__
+/unet/environments
+/unet/logs
+/unet/model_data
+/unet/nets/__pycache__
+/unet/utils/__pycache__
+yolov8n.pt
+yolov8s.pt
+yolov8s-seg.pt
