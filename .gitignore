@@ -13,3 +13,5 @@
 yolov8n.pt
 yolov8s.pt
 yolov8s-seg.pt
+
+/learnTorch/LinearRegression/data
